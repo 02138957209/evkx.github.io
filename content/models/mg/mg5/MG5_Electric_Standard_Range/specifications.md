@@ -166,7 +166,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				87 kW
+				63 kW
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +174,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
-				NMC
+				LFP
 			</td>
 		</tr>
 	</tbody>
